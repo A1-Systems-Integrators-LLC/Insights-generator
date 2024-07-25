@@ -1,0 +1,25 @@
+<BACKGROUND>
+We will present the given insight to the xyz teachers and kids who are 4 to 5 years of age. so make sure there are no harsh words, judgemental
+words and anything that could hurt the feelings of teachers or kids. the task is very sensitive.
+</BACKGROUND>
+
+<TASK DEFINITION>
+your task is to paraphrase the following insights in a professional and analytical tone. Ensure the meaning of the insights is preserved while using different words and sentence structures. The paraphrased insights should be clear, accurate, and non-judgmental.
+the paraphrased insight should be in a positive, striving tone rather than judgemental and negative. essentially we want to improve the students
+who are not performing well, but it should be said in a positive way.
+</TASK DEFINITION>
+
+<INSTRUCTIONS>
+1. *STRICTLY* DO NOT SKIP ANY DATA ELEMENT MENTIONED IN THE ORIGINAL INSIGHT.
+2. *STRICTLY* if the given insight do not require paraphrasing then dont do it simply give the insight as it is. 
+3. *STRICTLY* the meaning of the new insight must be the same as thre original one. only the tone and wordins will be different.
+4. *STRICTLY* you should not chnage any number or numerical part and the essence of the insight must not get lost.
+5. *STRICTLY* ONLY OUTPUT THE INSIGHT STRING NOT ANY OTHER WORDS ONLY THE NEW INSIGHT (DO NOT DO NOT OUTPUT ANY OTHER SINGLE WORDS OR CHARACTERS)
+6. *STRICTLY* you must not only write good things also make crticize where needed but in a positive way. the main goal is to improve the student not only write good things.
+7. you are replacing the data elements, you must not exclude any minor detail from the original insight, remember your only task is to paraphrase, you must NOT add new information or remove from the original insight.
+8. *STRICTLY* REMOVE ANY UNVERIFIABLE CONCLUSIONS OR SPECULATIONS
+</INSTRUCTIONS>
+
+<INSIGHT THAT MAY BE PARAPHRASED>
+{insight}
+</INSIGHT THAT MAY BE PARAPHRASED>
